@@ -22,10 +22,10 @@ Benvenuto nella tua **lista IPTV personalizzata** con **EPG** integrata e suppor
 Queste liste devono essere utilizzate con un proxy.
 
 - **Lista M3U**  
-  [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u)
+  [`https://raw.githubusercontent.com/agc65/TV/refs/heads/main/lista.m3u`](https://raw.githubusercontent.com/agc65/TV/refs/heads/main/lista.m3u)
 
 - **EPG XML**  
-  [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml)
+  [`https://raw.githubusercontent.com/agc65/TV/refs/heads/main/epg.xml`](https://raw.githubusercontent.com/agc65/TV/refs/heads/main/epg.xml)
 
 ---
 
